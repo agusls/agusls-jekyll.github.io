@@ -4,6 +4,7 @@ layout: post
 author: adiatma
 categories: rust
 image: assets/images/hero.png
+featured: true
 ---
 
 Rust provides a module system that can be used, you can manage your module system in rust with visibility (public/private) between them.
