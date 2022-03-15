@@ -1,23 +1,22 @@
-name: Adiatma Kamarudin
-title: Adiatma Kamarudin
-description: My personal blogs.
+name: Agusls
+title: Agusls
+description: Jekyll Blog - Test.
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
 baseurl: ''
-google_analytics: '"UA-143014045-1"'
-disqus: adiatma9024
+google_analytics: ''
+disqus: agusls
 include:
   - _pages
 permalink: '/:title/'
 authors:
   adiatma:
-    name: Adiatma Kamarudin
-    display_name: adiatma
-    email: adiatma9024@gmail.com
-    twitter: https://twitter.com/adiatma__
-    description: "Software Engineer, Opensource Enthusiasm, and Father"
+    name: Agusls
+    display_name: Agusls
+    email: wilgautama@gmail.com
+    twitter: ''
+    description: "Testing blog"
     web: "https://agusls.github.io"
-    gravatar: 4a2a99c8bd08b234fda70219c575c53a
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
