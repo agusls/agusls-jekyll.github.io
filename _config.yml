@@ -15,7 +15,7 @@ authors:
     display_name: Agusls
     email: wilgautama@gmail.com
     twitter: ''
-    description: "Testing blog"
+    description: "just me"
     web: "https://agusls.github.io"
 plugins:
   - jekyll-paginate
