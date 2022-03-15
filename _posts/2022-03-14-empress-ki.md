@@ -1,5 +1,5 @@
 ---
-title: Empress Ki (Korean: 기황후; Hanja: 奇皇后; RR: Gi Hwanghu) 
+title: Empress Ki (기황후; 奇皇后; Gi Hwanghu) 
 layout: post
 author: agusls
 categories: Drama Korean
