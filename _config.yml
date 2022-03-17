@@ -1,22 +1,22 @@
-name: Agusls
-title: Agusls
-description: Jekyll Blog - Test.
+name: Tech Portal Indonesia
+title: Tech Portal Indonesia
+description: Latest tech issues and tutorials
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
 baseurl: ''
 google_analytics: ''
-disqus: agusls
 include:
   - _pages
 permalink: '/:title/'
 authors:
-  agusls:
-    name: Agusls
-    display_name: Agusls
-    email: wilgautama@gmail.com
-    twitter: ''
+  techidn:
+    name: Techidn
+    display_name: Techidn
+    email: krvsuite@gmail.com
+    twitter: 'karinovcoid'
     description: "just me"
-    web: "https://agusls.github.io"
+    web: "https://techidn.github.io"
+    gravatar: 0397aa39d5259d69961beaf1155fa085
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
